@@ -1,0 +1,3052 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-02-06T09:01:47.815305500Z</date>
+  <millis>1644138107815</millis>
+  <nanos>305500</nanos>
+  <sequence>0</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>Testare</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Batalia cu neutrel 1 incepe.</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:47.865171900Z</date>
+  <millis>1644138107865</millis>
+  <nanos>171900</nanos>
+  <sequence>1</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:47.875145200Z</date>
+  <millis>1644138107875</millis>
+  <nanos>145200</nanos>
+  <sequence>2</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Abilitate 1</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:48.178334100Z</date>
+  <millis>1644138108178</millis>
+  <nanos>334100</nanos>
+  <sequence>3</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 are HP-ul 4</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:48.480526300Z</date>
+  <millis>1644138108480</millis>
+  <nanos>526300</nanos>
+  <sequence>4</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:48.480526300Z</date>
+  <millis>1644138108480</millis>
+  <nanos>526300</nanos>
+  <sequence>5</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Abilitate 2</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:48.481523400Z</date>
+  <millis>1644138108481</millis>
+  <nanos>523400</nanos>
+  <sequence>6</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAbilitate2</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Pikachu va evita pe Neutrel1</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:48.783239500Z</date>
+  <millis>1644138108783</millis>
+  <nanos>239500</nanos>
+  <sequence>7</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 are HP-ul 0</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:49.685718Z</date>
+  <millis>1644138109685</millis>
+  <nanos>718000</nanos>
+  <sequence>8</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 62</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:49.686717400Z</date>
+  <millis>1644138109686</millis>
+  <nanos>717400</nanos>
+  <sequence>9</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 62 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:49.988907800Z</date>
+  <millis>1644138109988</millis>
+  <nanos>907800</nanos>
+  <sequence>10</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 are HP-ul 8</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:50.291100400Z</date>
+  <millis>1644138110291</millis>
+  <nanos>100400</nanos>
+  <sequence>11</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 62</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:50.593292500Z</date>
+  <millis>1644138110593</millis>
+  <nanos>292500</nanos>
+  <sequence>12</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 are HP-ul 8</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:50.895484200Z</date>
+  <millis>1644138110895</millis>
+  <nanos>484200</nanos>
+  <sequence>13</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 62</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:50.895484200Z</date>
+  <millis>1644138110895</millis>
+  <nanos>484200</nanos>
+  <sequence>14</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 62 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:51.196664400Z</date>
+  <millis>1644138111196</millis>
+  <nanos>664400</nanos>
+  <sequence>15</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 are HP-ul 6</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:51.497626300Z</date>
+  <millis>1644138111497</millis>
+  <nanos>626300</nanos>
+  <sequence>16</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 62</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:51.799224400Z</date>
+  <millis>1644138111799</millis>
+  <nanos>224400</nanos>
+  <sequence>17</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 are HP-ul 6</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:52.101028700Z</date>
+  <millis>1644138112101</millis>
+  <nanos>28700</nanos>
+  <sequence>18</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 62</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:52.403718800Z</date>
+  <millis>1644138112403</millis>
+  <nanos>718800</nanos>
+  <sequence>19</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 are HP-ul 6</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:52.704751600Z</date>
+  <millis>1644138112704</millis>
+  <nanos>751600</nanos>
+  <sequence>20</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 62</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:53.007754700Z</date>
+  <millis>1644138113007</millis>
+  <nanos>754700</nanos>
+  <sequence>21</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 are HP-ul 6</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:53.008722500Z</date>
+  <millis>1644138113008</millis>
+  <nanos>722500</nanos>
+  <sequence>22</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 cu HP-ul 6 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:53.309806500Z</date>
+  <millis>1644138113309</millis>
+  <nanos>806500</nanos>
+  <sequence>23</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 69</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:53.310833300Z</date>
+  <millis>1644138113310</millis>
+  <nanos>833300</nanos>
+  <sequence>24</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 69 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:53.611704900Z</date>
+  <millis>1644138113611</millis>
+  <nanos>704900</nanos>
+  <sequence>25</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 are HP-ul 4</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:53.612647200Z</date>
+  <millis>1644138113612</millis>
+  <nanos>647200</nanos>
+  <sequence>26</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 cu HP-ul 4 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:53.915258800Z</date>
+  <millis>1644138113915</millis>
+  <nanos>258800</nanos>
+  <sequence>27</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:53.916212300Z</date>
+  <millis>1644138113916</millis>
+  <nanos>212300</nanos>
+  <sequence>28</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 1</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:53.917206300Z</date>
+  <millis>1644138113917</millis>
+  <nanos>206300</nanos>
+  <sequence>29</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAbilitate1</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Snorlax va evita pe Neutrel1</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:54.217828600Z</date>
+  <millis>1644138114217</millis>
+  <nanos>828600</nanos>
+  <sequence>30</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel1 are HP-ul 0</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:55.119506600Z</date>
+  <millis>1644138115119</millis>
+  <nanos>506600</nanos>
+  <sequence>31</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>Testare</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Batalia cu neutrel 2 incepe</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:55.119506600Z</date>
+  <millis>1644138115119</millis>
+  <nanos>506600</nanos>
+  <sequence>32</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:55.422586300Z</date>
+  <millis>1644138115422</millis>
+  <nanos>586300</nanos>
+  <sequence>33</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 20</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:55.423555800Z</date>
+  <millis>1644138115423</millis>
+  <nanos>555800</nanos>
+  <sequence>34</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 20 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:55.725761800Z</date>
+  <millis>1644138115725</millis>
+  <nanos>761800</nanos>
+  <sequence>35</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:55.726712800Z</date>
+  <millis>1644138115726</millis>
+  <nanos>712800</nanos>
+  <sequence>36</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Abilitate 2</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:55.726712800Z</date>
+  <millis>1644138115726</millis>
+  <nanos>712800</nanos>
+  <sequence>37</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAbilitate2</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Pikachu va evita pe Neutrel2</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:56.027824900Z</date>
+  <millis>1644138116027</millis>
+  <nanos>824900</nanos>
+  <sequence>38</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 16</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:56.027824900Z</date>
+  <millis>1644138116027</millis>
+  <nanos>824900</nanos>
+  <sequence>39</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtacSpecial</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Neutrel2 este blocat. Se va debloca...</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:56.329536400Z</date>
+  <millis>1644138116329</millis>
+  <nanos>536400</nanos>
+  <sequence>40</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:56.329536400Z</date>
+  <millis>1644138116329</millis>
+  <nanos>536400</nanos>
+  <sequence>41</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Abilitate 1</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:56.630832300Z</date>
+  <millis>1644138116630</millis>
+  <nanos>832300</nanos>
+  <sequence>42</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:56.932705500Z</date>
+  <millis>1644138116932</millis>
+  <nanos>705500</nanos>
+  <sequence>43</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:57.233365700Z</date>
+  <millis>1644138117233</millis>
+  <nanos>365700</nanos>
+  <sequence>44</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:57.234317600Z</date>
+  <millis>1644138117234</millis>
+  <nanos>317600</nanos>
+  <sequence>45</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 10 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:57.536730900Z</date>
+  <millis>1644138117536</millis>
+  <nanos>730900</nanos>
+  <sequence>46</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:57.837801700Z</date>
+  <millis>1644138117837</millis>
+  <nanos>801700</nanos>
+  <sequence>47</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:57.838726400Z</date>
+  <millis>1644138117838</millis>
+  <nanos>726400</nanos>
+  <sequence>48</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 10 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:58.140858300Z</date>
+  <millis>1644138118140</millis>
+  <nanos>858300</nanos>
+  <sequence>49</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:58.441840300Z</date>
+  <millis>1644138118441</millis>
+  <nanos>840300</nanos>
+  <sequence>50</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:58.442765900Z</date>
+  <millis>1644138118442</millis>
+  <nanos>765900</nanos>
+  <sequence>51</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 10 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:58.743614800Z</date>
+  <millis>1644138118743</millis>
+  <nanos>614800</nanos>
+  <sequence>52</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:59.045696100Z</date>
+  <millis>1644138119045</millis>
+  <nanos>696100</nanos>
+  <sequence>53</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:59.046647400Z</date>
+  <millis>1644138119046</millis>
+  <nanos>647400</nanos>
+  <sequence>54</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 10 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:59.348710400Z</date>
+  <millis>1644138119348</millis>
+  <nanos>710400</nanos>
+  <sequence>55</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:59.650622300Z</date>
+  <millis>1644138119650</millis>
+  <nanos>622300</nanos>
+  <sequence>56</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:59.650622300Z</date>
+  <millis>1644138119650</millis>
+  <nanos>622300</nanos>
+  <sequence>57</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 10 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:59.952422800Z</date>
+  <millis>1644138119952</millis>
+  <nanos>422800</nanos>
+  <sequence>58</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:01:59.952422800Z</date>
+  <millis>1644138119952</millis>
+  <nanos>422800</nanos>
+  <sequence>59</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Atac Special</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:00.254103900Z</date>
+  <millis>1644138120254</millis>
+  <nanos>103900</nanos>
+  <sequence>60</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 4</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:00.254103900Z</date>
+  <millis>1644138120254</millis>
+  <nanos>103900</nanos>
+  <sequence>61</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 4 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:00.555995500Z</date>
+  <millis>1644138120555</millis>
+  <nanos>995500</nanos>
+  <sequence>62</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:00.857667800Z</date>
+  <millis>1644138120857</millis>
+  <nanos>667800</nanos>
+  <sequence>63</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 4</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:01.159235200Z</date>
+  <millis>1644138121159</millis>
+  <nanos>235200</nanos>
+  <sequence>64</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:01.166183800Z</date>
+  <millis>1644138121166</millis>
+  <nanos>183800</nanos>
+  <sequence>65</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Abilitate 1</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:01.470439900Z</date>
+  <millis>1644138121470</millis>
+  <nanos>439900</nanos>
+  <sequence>66</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 0</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:02.371560600Z</date>
+  <millis>1644138122371</millis>
+  <nanos>560600</nanos>
+  <sequence>67</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:02.371560600Z</date>
+  <millis>1644138122371</millis>
+  <nanos>560600</nanos>
+  <sequence>68</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 1</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:02.372550600Z</date>
+  <millis>1644138122372</millis>
+  <nanos>550600</nanos>
+  <sequence>69</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAbilitate1</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Snorlax va evita pe Neutrel2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:02.673234800Z</date>
+  <millis>1644138122673</millis>
+  <nanos>234800</nanos>
+  <sequence>70</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 16</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:02.673234800Z</date>
+  <millis>1644138122673</millis>
+  <nanos>234800</nanos>
+  <sequence>71</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 16 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:02.975319300Z</date>
+  <millis>1644138122975</millis>
+  <nanos>319300</nanos>
+  <sequence>72</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:02.976309700Z</date>
+  <millis>1644138122976</millis>
+  <nanos>309700</nanos>
+  <sequence>73</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:03.276980200Z</date>
+  <millis>1644138123276</millis>
+  <nanos>980200</nanos>
+  <sequence>74</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 16</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:03.279975Z</date>
+  <millis>1644138123279</millis>
+  <nanos>975000</nanos>
+  <sequence>75</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtac</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Se deblocheaza Neutrel2...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:03.581745700Z</date>
+  <millis>1644138123581</millis>
+  <nanos>745700</nanos>
+  <sequence>76</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:03.883949600Z</date>
+  <millis>1644138123883</millis>
+  <nanos>949600</nanos>
+  <sequence>77</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 16</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:03.883949600Z</date>
+  <millis>1644138123883</millis>
+  <nanos>949600</nanos>
+  <sequence>78</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtac</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Se deblocheaza Neutrel2...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:04.185729800Z</date>
+  <millis>1644138124185</millis>
+  <nanos>729800</nanos>
+  <sequence>79</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:04.487850400Z</date>
+  <millis>1644138124487</millis>
+  <nanos>850400</nanos>
+  <sequence>80</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 16</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:04.487850400Z</date>
+  <millis>1644138124487</millis>
+  <nanos>850400</nanos>
+  <sequence>81</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtacSpecial</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Neutrel2 este blocat. Se va debloca...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:04.789130500Z</date>
+  <millis>1644138124789</millis>
+  <nanos>130500</nanos>
+  <sequence>82</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:05.090161900Z</date>
+  <millis>1644138125090</millis>
+  <nanos>161900</nanos>
+  <sequence>83</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 16</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:05.090161900Z</date>
+  <millis>1644138125090</millis>
+  <nanos>161900</nanos>
+  <sequence>84</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 16 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:05.391309800Z</date>
+  <millis>1644138125391</millis>
+  <nanos>309800</nanos>
+  <sequence>85</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:05.693403700Z</date>
+  <millis>1644138125693</millis>
+  <nanos>403700</nanos>
+  <sequence>86</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 16</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:05.693403700Z</date>
+  <millis>1644138125693</millis>
+  <nanos>403700</nanos>
+  <sequence>87</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 16 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:05.994932Z</date>
+  <millis>1644138125994</millis>
+  <nanos>932000</nanos>
+  <sequence>88</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:05.994932Z</date>
+  <millis>1644138125994</millis>
+  <nanos>932000</nanos>
+  <sequence>89</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:06.297582Z</date>
+  <millis>1644138126297</millis>
+  <nanos>582000</nanos>
+  <sequence>90</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:06.598720700Z</date>
+  <millis>1644138126598</millis>
+  <nanos>720700</nanos>
+  <sequence>91</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:06.899674100Z</date>
+  <millis>1644138126899</millis>
+  <nanos>674100</nanos>
+  <sequence>92</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:06.899674100Z</date>
+  <millis>1644138126899</millis>
+  <nanos>674100</nanos>
+  <sequence>93</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 14 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:07.201713200Z</date>
+  <millis>1644138127201</millis>
+  <nanos>713200</nanos>
+  <sequence>94</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:07.503793900Z</date>
+  <millis>1644138127503</millis>
+  <nanos>793900</nanos>
+  <sequence>95</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:07.503793900Z</date>
+  <millis>1644138127503</millis>
+  <nanos>793900</nanos>
+  <sequence>96</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 14 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:07.805736900Z</date>
+  <millis>1644138127805</millis>
+  <nanos>736900</nanos>
+  <sequence>97</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:08.106386700Z</date>
+  <millis>1644138128106</millis>
+  <nanos>386700</nanos>
+  <sequence>98</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:08.107351Z</date>
+  <millis>1644138128107</millis>
+  <nanos>351000</nanos>
+  <sequence>99</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 14 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:08.409748400Z</date>
+  <millis>1644138128409</millis>
+  <nanos>748400</nanos>
+  <sequence>100</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:08.409748400Z</date>
+  <millis>1644138128409</millis>
+  <nanos>748400</nanos>
+  <sequence>101</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:08.713252500Z</date>
+  <millis>1644138128713</millis>
+  <nanos>252500</nanos>
+  <sequence>102</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:08.714168600Z</date>
+  <millis>1644138128714</millis>
+  <nanos>168600</nanos>
+  <sequence>103</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtac</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Se deblocheaza Neutrel2...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:09.014523900Z</date>
+  <millis>1644138129014</millis>
+  <nanos>523900</nanos>
+  <sequence>104</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:09.014523900Z</date>
+  <millis>1644138129014</millis>
+  <nanos>523900</nanos>
+  <sequence>105</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 1</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:09.014523900Z</date>
+  <millis>1644138129014</millis>
+  <nanos>523900</nanos>
+  <sequence>106</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAbilitate1</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Snorlax va evita pe Neutrel2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:09.316071200Z</date>
+  <millis>1644138129316</millis>
+  <nanos>71200</nanos>
+  <sequence>107</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:09.316071200Z</date>
+  <millis>1644138129316</millis>
+  <nanos>71200</nanos>
+  <sequence>108</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtac</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Se deblocheaza Neutrel2...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:09.617631400Z</date>
+  <millis>1644138129617</millis>
+  <nanos>631400</nanos>
+  <sequence>109</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:09.919628300Z</date>
+  <millis>1644138129919</millis>
+  <nanos>628300</nanos>
+  <sequence>110</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:09.919628300Z</date>
+  <millis>1644138129919</millis>
+  <nanos>628300</nanos>
+  <sequence>111</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtac</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Se deblocheaza Neutrel2...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:10.220739500Z</date>
+  <millis>1644138130220</millis>
+  <nanos>739500</nanos>
+  <sequence>112</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:10.521573Z</date>
+  <millis>1644138130521</millis>
+  <nanos>573000</nanos>
+  <sequence>113</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:10.521573Z</date>
+  <millis>1644138130521</millis>
+  <nanos>573000</nanos>
+  <sequence>114</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtacSpecial</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Neutrel2 este blocat. Se va debloca...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:10.824370600Z</date>
+  <millis>1644138130824</millis>
+  <nanos>370600</nanos>
+  <sequence>115</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:11.125334300Z</date>
+  <millis>1644138131125</millis>
+  <nanos>334300</nanos>
+  <sequence>116</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:11.428122100Z</date>
+  <millis>1644138131428</millis>
+  <nanos>122100</nanos>
+  <sequence>117</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:11.728772400Z</date>
+  <millis>1644138131728</millis>
+  <nanos>772400</nanos>
+  <sequence>118</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:12.029877900Z</date>
+  <millis>1644138132029</millis>
+  <nanos>877900</nanos>
+  <sequence>119</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:12.029877900Z</date>
+  <millis>1644138132029</millis>
+  <nanos>877900</nanos>
+  <sequence>120</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:12.332036300Z</date>
+  <millis>1644138132332</millis>
+  <nanos>36300</nanos>
+  <sequence>121</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 8</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:12.633733300Z</date>
+  <millis>1644138132633</millis>
+  <nanos>733300</nanos>
+  <sequence>122</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:12.934847400Z</date>
+  <millis>1644138132934</millis>
+  <nanos>847400</nanos>
+  <sequence>123</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 8</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:12.934847400Z</date>
+  <millis>1644138132934</millis>
+  <nanos>847400</nanos>
+  <sequence>124</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 8 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:13.236704300Z</date>
+  <millis>1644138133236</millis>
+  <nanos>704300</nanos>
+  <sequence>125</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:13.538120200Z</date>
+  <millis>1644138133538</millis>
+  <nanos>120200</nanos>
+  <sequence>126</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 8</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:13.839109Z</date>
+  <millis>1644138133839</millis>
+  <nanos>109000</nanos>
+  <sequence>127</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:13.839109Z</date>
+  <millis>1644138133839</millis>
+  <nanos>109000</nanos>
+  <sequence>128</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:14.140788600Z</date>
+  <millis>1644138134140</millis>
+  <nanos>788600</nanos>
+  <sequence>129</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 8</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:14.140788600Z</date>
+  <millis>1644138134140</millis>
+  <nanos>788600</nanos>
+  <sequence>130</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtac</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Se deblocheaza Neutrel2...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:14.443122600Z</date>
+  <millis>1644138134443</millis>
+  <nanos>122600</nanos>
+  <sequence>131</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:14.743922600Z</date>
+  <millis>1644138134743</millis>
+  <nanos>922600</nanos>
+  <sequence>132</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 8</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:14.743922600Z</date>
+  <millis>1644138134743</millis>
+  <nanos>922600</nanos>
+  <sequence>133</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtac</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Se deblocheaza Neutrel2...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:15.045813500Z</date>
+  <millis>1644138135045</millis>
+  <nanos>813500</nanos>
+  <sequence>134</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:15.045813500Z</date>
+  <millis>1644138135045</millis>
+  <nanos>813500</nanos>
+  <sequence>135</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:15.346613300Z</date>
+  <millis>1644138135346</millis>
+  <nanos>613300</nanos>
+  <sequence>136</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 6</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:15.346613300Z</date>
+  <millis>1644138135346</millis>
+  <nanos>613300</nanos>
+  <sequence>137</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtac</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Se deblocheaza Neutrel2...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:15.647603Z</date>
+  <millis>1644138135647</millis>
+  <nanos>603000</nanos>
+  <sequence>138</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:15.647603Z</date>
+  <millis>1644138135647</millis>
+  <nanos>603000</nanos>
+  <sequence>139</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:15.948320800Z</date>
+  <millis>1644138135948</millis>
+  <nanos>320800</nanos>
+  <sequence>140</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 4</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:15.948320800Z</date>
+  <millis>1644138135948</millis>
+  <nanos>320800</nanos>
+  <sequence>141</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtacSpecial</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Neutrel2 este blocat. Se va debloca...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:16.250716200Z</date>
+  <millis>1644138136250</millis>
+  <nanos>716200</nanos>
+  <sequence>142</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:16.250716200Z</date>
+  <millis>1644138136250</millis>
+  <nanos>716200</nanos>
+  <sequence>143</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:16.553000900Z</date>
+  <millis>1644138136553</millis>
+  <nanos>900</nanos>
+  <sequence>144</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:16.553000900Z</date>
+  <millis>1644138136553</millis>
+  <nanos>900</nanos>
+  <sequence>145</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 2 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:16.855025Z</date>
+  <millis>1644138136855</millis>
+  <nanos>25000</nanos>
+  <sequence>146</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:16.855025Z</date>
+  <millis>1644138136855</millis>
+  <nanos>25000</nanos>
+  <sequence>147</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 1</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:16.856026400Z</date>
+  <millis>1644138136856</millis>
+  <nanos>26400</nanos>
+  <sequence>148</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAbilitate1</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Snorlax va evita pe Neutrel2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:17.158528100Z</date>
+  <millis>1644138137158</millis>
+  <nanos>528100</nanos>
+  <sequence>149</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 0</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:18.061053200Z</date>
+  <millis>1644138138061</millis>
+  <nanos>53200</nanos>
+  <sequence>150</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>Testare</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Batalia cu neutrel 2 incepe</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:18.061053200Z</date>
+  <millis>1644138138061</millis>
+  <nanos>53200</nanos>
+  <sequence>151</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:18.363793Z</date>
+  <millis>1644138138363</millis>
+  <nanos>793000</nanos>
+  <sequence>152</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 20</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:18.363793Z</date>
+  <millis>1644138138363</millis>
+  <nanos>793000</nanos>
+  <sequence>153</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 20 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:18.666834200Z</date>
+  <millis>1644138138666</millis>
+  <nanos>834200</nanos>
+  <sequence>154</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:18.666834200Z</date>
+  <millis>1644138138666</millis>
+  <nanos>834200</nanos>
+  <sequence>155</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Abilitate 2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:18.667830Z</date>
+  <millis>1644138138667</millis>
+  <nanos>830000</nanos>
+  <sequence>156</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAbilitate2</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Pikachu va evita pe Neutrel2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:18.968695600Z</date>
+  <millis>1644138138968</millis>
+  <nanos>695600</nanos>
+  <sequence>157</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 16</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:18.969628400Z</date>
+  <millis>1644138138969</millis>
+  <nanos>628400</nanos>
+  <sequence>158</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtac</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Se deblocheaza Neutrel2...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:19.271840600Z</date>
+  <millis>1644138139271</millis>
+  <nanos>840600</nanos>
+  <sequence>159</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:19.271840600Z</date>
+  <millis>1644138139271</millis>
+  <nanos>840600</nanos>
+  <sequence>160</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Atac Special</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:19.574559700Z</date>
+  <millis>1644138139574</millis>
+  <nanos>559700</nanos>
+  <sequence>161</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:19.574559700Z</date>
+  <millis>1644138139574</millis>
+  <nanos>559700</nanos>
+  <sequence>162</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtacSpecial</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Neutrel2 este blocat. Se va debloca...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:19.877552100Z</date>
+  <millis>1644138139877</millis>
+  <nanos>552100</nanos>
+  <sequence>163</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:19.877552100Z</date>
+  <millis>1644138139877</millis>
+  <nanos>552100</nanos>
+  <sequence>164</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Atac Special</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:20.179219500Z</date>
+  <millis>1644138140179</millis>
+  <nanos>219500</nanos>
+  <sequence>165</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 4</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:20.179219500Z</date>
+  <millis>1644138140179</millis>
+  <nanos>219500</nanos>
+  <sequence>166</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 4 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:20.480726900Z</date>
+  <millis>1644138140480</millis>
+  <nanos>726900</nanos>
+  <sequence>167</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:20.781824300Z</date>
+  <millis>1644138140781</millis>
+  <nanos>824300</nanos>
+  <sequence>168</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 4</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:20.781824300Z</date>
+  <millis>1644138140781</millis>
+  <nanos>824300</nanos>
+  <sequence>169</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 4 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:21.084825200Z</date>
+  <millis>1644138141084</millis>
+  <nanos>825200</nanos>
+  <sequence>170</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:21.386832400Z</date>
+  <millis>1644138141386</millis>
+  <nanos>832400</nanos>
+  <sequence>171</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 4</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:21.386832400Z</date>
+  <millis>1644138141386</millis>
+  <nanos>832400</nanos>
+  <sequence>172</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 4 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:21.688377700Z</date>
+  <millis>1644138141688</millis>
+  <nanos>377700</nanos>
+  <sequence>173</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:21.688377700Z</date>
+  <millis>1644138141688</millis>
+  <nanos>377700</nanos>
+  <sequence>174</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Atac Special</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:21.989300400Z</date>
+  <millis>1644138141989</millis>
+  <nanos>300400</nanos>
+  <sequence>175</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 0</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:22.890104500Z</date>
+  <millis>1644138142890</millis>
+  <nanos>104500</nanos>
+  <sequence>176</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:23.192726900Z</date>
+  <millis>1644138143192</millis>
+  <nanos>726900</nanos>
+  <sequence>177</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 20</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:23.192726900Z</date>
+  <millis>1644138143192</millis>
+  <nanos>726900</nanos>
+  <sequence>178</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 20 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:23.494316100Z</date>
+  <millis>1644138143494</millis>
+  <nanos>316100</nanos>
+  <sequence>179</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:23.494316100Z</date>
+  <millis>1644138143494</millis>
+  <nanos>316100</nanos>
+  <sequence>180</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:23.796900900Z</date>
+  <millis>1644138143796</millis>
+  <nanos>900900</nanos>
+  <sequence>181</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 20</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:23.796900900Z</date>
+  <millis>1644138143796</millis>
+  <nanos>900900</nanos>
+  <sequence>182</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtacSpecial</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Neutrel2 este blocat. Se va debloca...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:24.099603500Z</date>
+  <millis>1644138144099</millis>
+  <nanos>603500</nanos>
+  <sequence>183</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:24.400579Z</date>
+  <millis>1644138144400</millis>
+  <nanos>579000</nanos>
+  <sequence>184</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 20</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:24.400579Z</date>
+  <millis>1644138144400</millis>
+  <nanos>579000</nanos>
+  <sequence>185</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 20 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:24.701973400Z</date>
+  <millis>1644138144701</millis>
+  <nanos>973400</nanos>
+  <sequence>186</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:25.002824Z</date>
+  <millis>1644138145002</millis>
+  <nanos>824000</nanos>
+  <sequence>187</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 20</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:25.002824Z</date>
+  <millis>1644138145002</millis>
+  <nanos>824000</nanos>
+  <sequence>188</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 20 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:25.305424400Z</date>
+  <millis>1644138145305</millis>
+  <nanos>424400</nanos>
+  <sequence>189</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:25.606569900Z</date>
+  <millis>1644138145606</millis>
+  <nanos>569900</nanos>
+  <sequence>190</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 20</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:25.606569900Z</date>
+  <millis>1644138145606</millis>
+  <nanos>569900</nanos>
+  <sequence>191</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 20 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:25.908835500Z</date>
+  <millis>1644138145908</millis>
+  <nanos>835500</nanos>
+  <sequence>192</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:26.209699300Z</date>
+  <millis>1644138146209</millis>
+  <nanos>699300</nanos>
+  <sequence>193</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 20</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:26.209699300Z</date>
+  <millis>1644138146209</millis>
+  <nanos>699300</nanos>
+  <sequence>194</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 20 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:26.510844700Z</date>
+  <millis>1644138146510</millis>
+  <nanos>844700</nanos>
+  <sequence>195</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:26.811991100Z</date>
+  <millis>1644138146811</millis>
+  <nanos>991100</nanos>
+  <sequence>196</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 20</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:27.112779600Z</date>
+  <millis>1644138147112</millis>
+  <nanos>779600</nanos>
+  <sequence>197</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:27.112779600Z</date>
+  <millis>1644138147112</millis>
+  <nanos>779600</nanos>
+  <sequence>198</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:27.414821200Z</date>
+  <millis>1644138147414</millis>
+  <nanos>821200</nanos>
+  <sequence>199</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 18</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:27.414821200Z</date>
+  <millis>1644138147414</millis>
+  <nanos>821200</nanos>
+  <sequence>200</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 18 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:27.715597200Z</date>
+  <millis>1644138147715</millis>
+  <nanos>597200</nanos>
+  <sequence>201</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:27.715597200Z</date>
+  <millis>1644138147715</millis>
+  <nanos>597200</nanos>
+  <sequence>202</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 1</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:27.715597200Z</date>
+  <millis>1644138147715</millis>
+  <nanos>597200</nanos>
+  <sequence>203</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAbilitate1</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Snorlax va evita pe Neutrel2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:28.016917500Z</date>
+  <millis>1644138148016</millis>
+  <nanos>917500</nanos>
+  <sequence>204</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:28.016917500Z</date>
+  <millis>1644138148016</millis>
+  <nanos>917500</nanos>
+  <sequence>205</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 14 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:28.318824600Z</date>
+  <millis>1644138148318</millis>
+  <nanos>824600</nanos>
+  <sequence>206</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:28.619374900Z</date>
+  <millis>1644138148619</millis>
+  <nanos>374900</nanos>
+  <sequence>207</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:28.619374900Z</date>
+  <millis>1644138148619</millis>
+  <nanos>374900</nanos>
+  <sequence>208</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 14 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:28.921702900Z</date>
+  <millis>1644138148921</millis>
+  <nanos>702900</nanos>
+  <sequence>209</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:29.222420900Z</date>
+  <millis>1644138149222</millis>
+  <nanos>420900</nanos>
+  <sequence>210</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:29.523703500Z</date>
+  <millis>1644138149523</millis>
+  <nanos>703500</nanos>
+  <sequence>211</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:29.825901300Z</date>
+  <millis>1644138149825</millis>
+  <nanos>901300</nanos>
+  <sequence>212</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:30.126639Z</date>
+  <millis>1644138150126</millis>
+  <nanos>639000</nanos>
+  <sequence>213</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:30.126639Z</date>
+  <millis>1644138150126</millis>
+  <nanos>639000</nanos>
+  <sequence>214</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:30.427791500Z</date>
+  <millis>1644138150427</millis>
+  <nanos>791500</nanos>
+  <sequence>215</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:30.427791500Z</date>
+  <millis>1644138150427</millis>
+  <nanos>791500</nanos>
+  <sequence>216</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAtacSpecial</class>
+  <method>executaComanda</method>
+  <thread>1</thread>
+  <message>Neutrel2 este blocat. Se va debloca...</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:30.728652200Z</date>
+  <millis>1644138150728</millis>
+  <nanos>652200</nanos>
+  <sequence>217</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:31.029642100Z</date>
+  <millis>1644138151029</millis>
+  <nanos>642100</nanos>
+  <sequence>218</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:31.029642100Z</date>
+  <millis>1644138151029</millis>
+  <nanos>642100</nanos>
+  <sequence>219</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 14 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:31.332764300Z</date>
+  <millis>1644138151332</millis>
+  <nanos>764300</nanos>
+  <sequence>220</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:31.633697100Z</date>
+  <millis>1644138151633</millis>
+  <nanos>697100</nanos>
+  <sequence>221</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:31.934818Z</date>
+  <millis>1644138151934</millis>
+  <nanos>818000</nanos>
+  <sequence>222</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:32.236872800Z</date>
+  <millis>1644138152236</millis>
+  <nanos>872800</nanos>
+  <sequence>223</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 14</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:32.236872800Z</date>
+  <millis>1644138152236</millis>
+  <nanos>872800</nanos>
+  <sequence>224</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 14 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:32.537719600Z</date>
+  <millis>1644138152537</millis>
+  <nanos>719600</nanos>
+  <sequence>225</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:32.537719600Z</date>
+  <millis>1644138152537</millis>
+  <nanos>719600</nanos>
+  <sequence>226</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:32.839060600Z</date>
+  <millis>1644138152839</millis>
+  <nanos>60600</nanos>
+  <sequence>227</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 12</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:33.140371900Z</date>
+  <millis>1644138153140</millis>
+  <nanos>371900</nanos>
+  <sequence>228</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:33.140371900Z</date>
+  <millis>1644138153140</millis>
+  <nanos>371900</nanos>
+  <sequence>229</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:33.442553500Z</date>
+  <millis>1644138153442</millis>
+  <nanos>553500</nanos>
+  <sequence>230</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 10</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:33.442553500Z</date>
+  <millis>1644138153442</millis>
+  <nanos>553500</nanos>
+  <sequence>231</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 10 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:33.743313400Z</date>
+  <millis>1644138153743</millis>
+  <nanos>313400</nanos>
+  <sequence>232</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:33.743313400Z</date>
+  <millis>1644138153743</millis>
+  <nanos>313400</nanos>
+  <sequence>233</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:34.044872900Z</date>
+  <millis>1644138154044</millis>
+  <nanos>872900</nanos>
+  <sequence>234</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 8</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:34.347068700Z</date>
+  <millis>1644138154347</millis>
+  <nanos>68700</nanos>
+  <sequence>235</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:34.347068700Z</date>
+  <millis>1644138154347</millis>
+  <nanos>68700</nanos>
+  <sequence>236</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:34.648538100Z</date>
+  <millis>1644138154648</millis>
+  <nanos>538100</nanos>
+  <sequence>237</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 6</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:34.950722500Z</date>
+  <millis>1644138154950</millis>
+  <nanos>722500</nanos>
+  <sequence>238</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:34.950722500Z</date>
+  <millis>1644138154950</millis>
+  <nanos>722500</nanos>
+  <sequence>239</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:35.252804800Z</date>
+  <millis>1644138155252</millis>
+  <nanos>804800</nanos>
+  <sequence>240</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 4</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:35.252804800Z</date>
+  <millis>1644138155252</millis>
+  <nanos>804800</nanos>
+  <sequence>241</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 4 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:35.553629Z</date>
+  <millis>1644138155553</millis>
+  <nanos>629000</nanos>
+  <sequence>242</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:35.553629Z</date>
+  <millis>1644138155553</millis>
+  <nanos>629000</nanos>
+  <sequence>243</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:35.854462600Z</date>
+  <millis>1644138155854</millis>
+  <nanos>462600</nanos>
+  <sequence>244</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 2</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:35.854462600Z</date>
+  <millis>1644138155854</millis>
+  <nanos>462600</nanos>
+  <sequence>245</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 cu HP-ul 2 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:36.156817300Z</date>
+  <millis>1644138156156</millis>
+  <nanos>817300</nanos>
+  <sequence>246</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:36.156817300Z</date>
+  <millis>1644138156156</millis>
+  <nanos>817300</nanos>
+  <sequence>247</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Atac</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:36.457716400Z</date>
+  <millis>1644138156457</millis>
+  <nanos>716400</nanos>
+  <sequence>248</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>1</thread>
+  <message>Pokemonul Neutrel2 are HP-ul 0</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:37.359920400Z</date>
+  <millis>1644138157359</millis>
+  <nanos>920400</nanos>
+  <sequence>249</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>17</thread>
+  <message>Pokemonul Pikachu are HP-ul 35</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:37.359920400Z</date>
+  <millis>1644138157359</millis>
+  <nanos>920400</nanos>
+  <sequence>250</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>18</thread>
+  <message>Pokemonul Snorlax are HP-ul 76</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:37.360840Z</date>
+  <millis>1644138157360</millis>
+  <nanos>840000</nanos>
+  <sequence>251</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>executaComandaAleatorie</method>
+  <thread>17</thread>
+  <message>Pokemonul Pikachu cu HP-ul 35 va folosi Atac Special</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:37.360840Z</date>
+  <millis>1644138157360</millis>
+  <nanos>840000</nanos>
+  <sequence>252</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.Antrenor</class>
+  <method>comandaSpecialadeIndice</method>
+  <thread>18</thread>
+  <message>Pokemonul Snorlax cu HP-ul 76 va folosi Abilitate 1</message>
+</record>
+<record>
+  <date>2022-02-06T09:02:37.361837700Z</date>
+  <millis>1644138157361</millis>
+  <nanos>837700</nanos>
+  <sequence>253</sequence>
+  <logger>Testare</logger>
+  <level>INFO</level>
+  <class>pattern.command.ComandaAbilitate1</class>
+  <method>executaComanda</method>
+  <thread>18</thread>
+  <message>Snorlax va evita pe Pikachu</message>
+</record>
+</log>

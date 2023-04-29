@@ -1,0 +1,12 @@
+Sorin
+19
+Charmander,Squirtle,Snorlax
+Charmander:Scut,Sabiuta,Pelerina
+Squirtle:Pelerina,Sabiuta,Vitamine
+Snorlax:BradCraciun,Scut,BaghetaMagica
+Albert
+20
+Jigglypuff,Meowth,Psyduck
+Snorlax:Sabiuta,Vitamine,BaghetaMagica
+Vulpix:Bagheta,Scut,Vesta
+Eeve:Sabiuta,Pelerina,Scut

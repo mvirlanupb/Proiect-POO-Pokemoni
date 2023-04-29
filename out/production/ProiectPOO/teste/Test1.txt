@@ -1,0 +1,12 @@
+Andrei
+21
+Pikachu,Bulbasaur,Snorlax
+Pikachu:Scut,Sabiuta,BaghetaMagica
+Bulbasaur:BradCraciun,Scut,Vesta
+Snorlax:Pelerina,Sabiuta,Scut
+Ioana
+20
+Snorlax,Vulpix,Eevee
+Snorlax:Scut,BradCraciun,Pelerina
+Vulpix:Vitamine,BaghetaMagica,Vesta
+Eeve:Sabiuta,Pelerina,Scut
